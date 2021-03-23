@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/imhotep-hodges/ReactRouterToDoApp/static/css/main.acceeba4.chunk.css",
+    "main.js": "/imhotep-hodges/ReactRouterToDoApp/static/js/main.87084829.chunk.js",
+    "main.js.map": "/imhotep-hodges/ReactRouterToDoApp/static/js/main.87084829.chunk.js.map",
+    "runtime-main.js": "/imhotep-hodges/ReactRouterToDoApp/static/js/runtime-main.a20eee37.js",
+    "runtime-main.js.map": "/imhotep-hodges/ReactRouterToDoApp/static/js/runtime-main.a20eee37.js.map",
+    "static/css/2.637f5471.chunk.css": "/imhotep-hodges/ReactRouterToDoApp/static/css/2.637f5471.chunk.css",
+    "static/js/2.1f50bec6.chunk.js": "/imhotep-hodges/ReactRouterToDoApp/static/js/2.1f50bec6.chunk.js",
+    "static/js/2.1f50bec6.chunk.js.map": "/imhotep-hodges/ReactRouterToDoApp/static/js/2.1f50bec6.chunk.js.map",
+    "index.html": "/imhotep-hodges/ReactRouterToDoApp/index.html",
+    "static/css/2.637f5471.chunk.css.map": "/imhotep-hodges/ReactRouterToDoApp/static/css/2.637f5471.chunk.css.map",
+    "static/css/main.acceeba4.chunk.css.map": "/imhotep-hodges/ReactRouterToDoApp/static/css/main.acceeba4.chunk.css.map",
+    "static/js/2.1f50bec6.chunk.js.LICENSE.txt": "/imhotep-hodges/ReactRouterToDoApp/static/js/2.1f50bec6.chunk.js.LICENSE.txt",
+    "static/media/IMG_2959.65317f0b.png": "/imhotep-hodges/ReactRouterToDoApp/static/media/IMG_2959.65317f0b.png",
+    "static/media/IMG_2960.bfca2855.png": "/imhotep-hodges/ReactRouterToDoApp/static/media/IMG_2960.bfca2855.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a20eee37.js",
+    "static/css/2.637f5471.chunk.css",
+    "static/js/2.1f50bec6.chunk.js",
+    "static/css/main.acceeba4.chunk.css",
+    "static/js/main.87084829.chunk.js"
+  ]
+}
